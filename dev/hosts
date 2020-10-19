@@ -1,0 +1,11 @@
+[Others]
+18.212.7.215   ansible_user=ec2-user
+3.84.24.152    ansible_user=ec2-user
+
+
+[Centos_Web]
+3.85.159.63    ansible_user=centos
+
+
+[Ubuntu_DB]
+3.238.49.246   ansible_user=ubuntu
